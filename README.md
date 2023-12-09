@@ -1,4 +1,4 @@
-![Header](CS50P-Header.png)
+![Header](CS50P-header.png)
 
 **`QubeUK (IT Professional)`**
 
